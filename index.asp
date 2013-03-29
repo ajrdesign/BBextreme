@@ -35,7 +35,7 @@
                   <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
                     MENU
                   </a>
-                  <a class="brand" href="index.asp">Bluebeam</a>
+                  <a class="brand" href="index.asp"><img src="img/bbxc-logo-horiz.png"></a>
                   <div class="nav-collapse collapse">
                     <ul class="nav">
                       <li><a href="sessions.asp">Sessions</a></li>

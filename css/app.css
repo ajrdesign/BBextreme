@@ -5,11 +5,21 @@
 	border-bottom: 1px solid #0083db;
 }
 
-.hero-sessions {
-	background: url(../img/hero-sessions.jpg) no-repeat top center;
+.hero-sessions,
+.hero-awards,
+.hero-travel,
+.hero-register {
 	background-size: 100% auto;
 	height: 120px;
 	border-bottom: 1px solid #0083db;
+}
+
+.hero-sessions {
+	background: url(../img/hero-sessions.jpg) no-repeat top center;
+}
+
+.hero-awards {
+	background: url(../img/hero-awards.jpg) no-repeat top center;
 }
 
 .hero-unit-text-right {
@@ -63,10 +73,4 @@
 	-o-background-size: 100%;
 	background-size: 100%;
 	height: 480px;
-}
-
-.la-bg {
-	background: #000 url(../img/la-bg.jpg) fixed no-repeat;
-	background-position: bottom;
-	height: 600px;
 }

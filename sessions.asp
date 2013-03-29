@@ -34,7 +34,7 @@
                   <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
                     MENU
                   </a>
-                  <a class="brand" href="index.asp">Bluebeam</a>
+                  <a class="brand" href="index.asp"><img src="img/bbxc-logo-horiz.png"></a>
                   <div class="nav-collapse collapse">
                     <ul class="nav">
                       <li><a href="sessions.asp">Sessions</a></li>
@@ -178,14 +178,14 @@
               </div>
               <div class="accordion-group">
                 <div class="accordion-heading accordion-green">
-                  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFive">
+                  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix">
                     <dl class="dl-horizontal">
                       <dt>1:45-2:30 PM</dt>
                       <dd><span class="label label-important">Advanced</span> Design Review and Project Tracking with Kristine Hopkins <i class="icon-caret-down pull-right"></i></dd>
                     </dl>
                   </a>
                 </div>
-                <div id="collapseFive" class="accordion-body collapse">
+                <div id="collapseSix" class="accordion-body collapse">
                   <div class="accordion-inner accordion-green">
                     <p>Use Revu’s cloud-enabled collaboration feature, Bluebeam Studio, to make key decisions and advance projects in real time – for both design review and project tracking in the field.  Collaborate with project teams from anywhere, whether in the office or in the field, to ensure easy communication for everyone with no down time. Features covered include:</p>
                     <ul>

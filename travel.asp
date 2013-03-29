@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Awards | eXtreme Conference</title>
+  <title>Travel | eXtreme Conference</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
   <meta name="author" content="">
@@ -34,7 +34,7 @@
                   <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
                     MENU
                   </a>
-                  <a class="brand" href="index.asp"><img src="img/bbxc-logo-horiz.png"></a
+                  <a class="brand" href="index.asp"><img src="img/bbxc-logo-horiz.png"></a>
                   <div class="nav-collapse collapse">
                     <ul class="nav">
                       <li><a href="sessions.asp">Sessions</a></li>
@@ -48,12 +48,13 @@
                 </div>
               </div>
             </div>
-            <div class="hero-unit hero-awards">
-              <h1>Awards</h1>
+            <div class="hero-unit hero-sessions">
+              <h1>Travel</h1>
             </div>
           </div>
           <div class="span10 offset1">
-            <p class="lead">Whether you're a novice Revu user, or an old pro who has been a fan since PushButton PDF, the Bluebeam eXtreme Conference has educational sessions designed to unleash your digital workflow. This year, we’re offering two different tracks: Basic and Advanced. Feel free to pick the sessions the best fit your needs. All sessions will take place at the LA Live Regal Theatres. With massive screens and a monster sound system, it’s sure to be a cinematic experience. </p>
+            <h2>Where to stay</h2>
+            <p class="lead">Joining us from out of town? Check out the following Bluebeam-approved hotels, and choose the hotel that best fits your travel style. Be sure to book your room(s) early. With X Games in town, hotels book up quickly!</p>
             
           </div>
         </div>

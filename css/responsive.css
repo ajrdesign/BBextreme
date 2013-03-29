@@ -425,7 +425,7 @@
     -moz-background-size: 1400px;
     -o-background-size: 1400px;
     background-size: 1400px;
-    height: 480px;
+    height: 500px;
   }
 }
 @media (min-width: 768px) and (max-width: 979px) {
@@ -760,6 +760,13 @@
   }
   .hero-speaker p {
     font-size: 14px;
+  }
+  .hero-sessions {
+    height: 60px;
+  }
+  .fun-bg,
+  .crowd-bg {
+    height: 325px;
   }
 }
 @media (max-width: 767px) {
