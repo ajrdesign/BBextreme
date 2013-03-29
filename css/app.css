@@ -1,0 +1,72 @@
+.hero-speaker {
+	background: url(../img/eXtremeCon-hero.jpg) no-repeat top center;
+	background-size: 100% auto;
+	height: 275px;
+	border-bottom: 1px solid #0083db;
+}
+
+.hero-sessions {
+	background: url(../img/hero-sessions.jpg) no-repeat top center;
+	background-size: 100% auto;
+	height: 120px;
+	border-bottom: 1px solid #0083db;
+}
+
+.hero-unit-text-right {
+	padding: 5% 5% 5% 60%;
+}
+
+.green {
+	color: #90C24A;
+}
+
+.drk-green-bg {
+	background: #4a7220;
+	color: white;
+}
+
+.block input {
+	display: block;
+}
+
+.block .btn {
+	margin: 8px 0;
+}
+
+.pull-right-img {
+	padding: 0 0 20px 20px;
+}
+
+.slide-text-overlay {
+	margin: 10px 0 10px 10px;
+	width: 24%;
+	height: 95%;
+	position: absolute;
+	z-index: 2000;
+}
+
+/* Background Styles */
+
+.crowd-bg {
+	background: #000 url(../img/background-outdoor-food.jpg) no-repeat center bottom fixed; 
+	-webkit-background-size: 100%;
+	-moz-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
+	height: 400px;
+}
+
+.fun-bg {
+	background: #000 url(../img/fun-bg.jpg) no-repeat center bottom fixed; 
+	-webkit-background-size: 100%;
+	-moz-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
+	height: 480px;
+}
+
+.la-bg {
+	background: #000 url(../img/la-bg.jpg) fixed no-repeat;
+	background-position: bottom;
+	height: 600px;
+}

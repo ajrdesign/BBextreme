@@ -1,0 +1,46 @@
+//
+// Responsive: Tablet to desktop
+// --------------------------------------------------
+
+
+@media (min-width: 768px) and (max-width: 979px) {
+
+  // Fixed grid
+  #grid > .core(@gridColumnWidth768, @gridGutterWidth768);
+
+  // Fluid grid
+  #grid > .fluid(@fluidGridColumnWidth768, @fluidGridGutterWidth768);
+
+  // Input grid
+  #grid > .input(@gridColumnWidth768, @gridGutterWidth768);
+
+  // No need to reset .thumbnails here since it's the same @gridGutterWidth
+
+  .docs-sidebar {
+	width: (@gridColumnWidth * 3);
+}
+
+	// Gallery
+	.gallery li {
+		width: 32.8%; 
+	}
+	.gallery li:nth-child(3n+1) {
+		clear: left;
+	}
+	.gallery li:nth-child(2n+1) {
+		clear: none;
+	}
+
+	.hero-speaker {
+	  height: 215px;
+
+		h1 {
+			font-size: 26px;
+		}
+		p {
+			font-size: 14px;
+		}
+
+	  }
+
+}

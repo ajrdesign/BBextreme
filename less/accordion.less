@@ -1,0 +1,76 @@
+//
+// Accordion
+// --------------------------------------------------
+
+
+// Parent container
+.accordion {
+  margin-bottom: @baseLineHeight;
+}
+
+// Group == heading + body
+.accordion-group {
+  margin-bottom: 2px;
+}
+.accordion-heading {
+  border-bottom: 0;
+}
+.accordion-heading .accordion-toggle {
+  display: block;
+  padding: 8px 15px;
+}
+
+// General toggle styles
+.accordion-toggle {
+  cursor: pointer;
+}
+
+.accordion-blue a,
+.accordion-red a,
+.accordion-green a,
+.accordion-yellow a,
+.accordion-orange a,
+.accordion-teal a {
+  color: @white;
+}
+
+.accordion-black a {
+  color: @grayLighter;
+}
+
+.accordion-blue {
+  background: @blue;
+}
+
+.accordion-red {
+  background: @red;
+}
+
+.accordion-green {
+  background: darken(@green,5%);
+}
+.accordion-body .accordion-green {
+  background: @grayDark;
+  color: @white;
+}
+
+.accordion-yellow {
+  background: @yellow
+}
+
+.accordion-orange {
+  background: @orange;
+}
+
+.accordion-teal {
+  background: @teal;
+}
+
+.accordion-black {
+  background: @black;
+}
+
+// Inner needs the styles because you can't animate properly with any styles on the element
+.accordion-inner {
+  padding: 9px 15px;
+}

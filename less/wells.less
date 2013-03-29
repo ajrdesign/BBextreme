@@ -1,0 +1,77 @@
+//
+// Wells
+// --------------------------------------------------
+
+
+// Base class
+.well {
+  min-height: 20px;
+  padding: 19px;
+  margin-bottom: 20px;
+  background-color: @wellBackground;
+  border: 1px solid darken(@wellBackground, 7%);
+  .border-radius(0);
+  .box-shadow(inset 0 1px 1px rgba(0,0,0,.05));
+  blockquote {
+    border-color: #ddd;
+    border-color: rgba(0,0,0,.15);
+  }
+}
+
+// Sizes
+.well-large {
+  padding: 24px;
+  .border-radius(0);
+}
+.well-small {
+  padding: 9px;
+  .border-radius(0);
+}
+
+
+// Style
+.well-clear {
+  background-color: transparent;
+  border: none;
+  .box-shadow(none);
+}
+
+/* ====== Media Box ====== */
+// --------------------------------------------------
+// The Media box eliminates the need to recreate the typical image/copy combination we use constantly.
+// It is completely flexible to the container it is in you can put any size image or any amount of copy and it will adjust.
+
+// Media box Styles
+
+.media .img-third {
+  width: 33%;
+}
+
+.media .img-half {
+  width: 50%;
+}
+
+.media .img-two-third {
+  width: 66%;
+}
+
+.border,
+.gray-background {
+  padding: @baseLineHeight/2;
+}
+
+.border {
+  border: 1px solid @grayLighter;
+}
+
+.blue-border-top {
+  border-top: 4px solid @blue;
+}
+
+.blue-border-left {
+  border-left: 4px solid @blue;
+}
+
+.gray-background {
+  background: rgba(1, 1, 1, 0.1);
+}

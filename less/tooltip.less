@@ -1,0 +1,49 @@
+//
+// Tooltips
+// --------------------------------------------------
+
+.tooltip {
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  padding-bottom: 2px;
+}
+
+.tooltip:after {
+  content: attr(data-tooltip);
+  display: block;
+  position: absolute;
+  color: @white;
+  background: lighten(@black, 20%);
+  padding: 4px 8px;
+  left:-30px;
+  bottom: 120%;
+  text-align: center;
+  display: none;
+  width:125px;
+}
+
+.tooltip:hover:after,
+.tooltip:hover:before {
+  display: block;
+}
+
+.tooltip-large:after,
+.tooltip-extreme:after {
+  text-align: left;
+}
+
+// Large Style
+.tooltip-large:after {
+  left:-65px;
+  bottom: 120%;
+  width:200px;
+}
+
+// Extreme Style
+.tooltip-extreme:after {
+  left:-120px;
+  bottom: 120%;
+  width:350px;
+}
+
