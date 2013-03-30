@@ -682,9 +682,13 @@ hr {
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #ffffff;
 }
+hr.clean {
+  margin: 1.5em 0;
+  border: 0;
+}
 hr.blue {
   border-top: none;
-  border-bottom: 1px solid #0083db;
+  border-bottom: 2px solid #0083db;
 }
 abbr[title] {
   cursor: help;
@@ -2847,42 +2851,36 @@ button.close {
   border: 0;
   -webkit-appearance: none;
 }
+/*A less bloated media object.*/
+/* ====== media ====== */
+.media {
+  margin: 0;
+}
 .media,
-.media-body {
+.bd {
   overflow: hidden;
-  *overflow: visible;
+  _overflow: visible;
   zoom: 1;
 }
-.media,
-.media .media {
-  margin-top: 15px;
+.media .img {
+  float: left;
+  margin-right: 20px;
 }
-.media:first-child {
-  margin-top: 0;
-}
-.media-object,
-.media-object-third,
-.media-object-half {
+.media .img {
   display: block;
 }
-.media-object-third {
-  width: 33%;
+.media .imgExt {
+  float: right;
+  margin-left: 20px;
 }
-.media-object-half {
-  width: 50%;
+.media-margin {
+  margin: 20px;
 }
-.media-heading {
-  margin: 0 0 5px;
+.media-third .img {
+  max-width: 33%;
 }
-.media > .pull-left {
-  margin-right: 10px;
-}
-.media > .pull-right {
-  margin-left: 10px;
-}
-.media-list {
-  margin-left: 0;
-  list-style: none;
+.media-half .img {
+  max-width: 50%;
 }
 .btn {
   display: inline-block;
@@ -3748,7 +3746,7 @@ input[type="submit"].btn.btn-mini {
   overflow: visible;
   margin-bottom: 1.5em;
   color: #cccccc;
-  border-bottom: 1px solid #0083db;
+  border-bottom: 2px solid #0083db;
   *position: relative;
   *z-index: 2;
 }
@@ -3778,7 +3776,7 @@ input[type="submit"].btn.btn-mini {
 .navbar .brand {
   float: left;
   display: block;
-  padding: 0 11.75px;
+  padding: 8px 11.75px;
   margin-left: -20px;
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   font-size: 16px;
@@ -3787,7 +3785,6 @@ input[type="submit"].btn.btn-mini {
 }
 .navbar .brand:hover {
   text-decoration: none;
-  color: #bfbfbf;
 }
 .navbar-text {
   margin-bottom: 0;
@@ -4691,7 +4688,6 @@ a.thumbnail:hover {
 }
 .label,
 .badge {
-  font-size: 13.536px;
   font-weight: bold;
   line-height: 14px;
   color: #ffffff;

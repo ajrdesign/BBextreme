@@ -34,10 +34,10 @@
                   <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
                     MENU
                   </a>
-                  <a class="brand" href="index.asp"><img src="img/bbxc-logo-horiz.png"></a>
+                  <a class="brand" href="index.asp"><img src="img/bb-logo.png"></a>
                   <div class="nav-collapse collapse">
                     <ul class="nav">
-                      <li><a href="sessions.asp">Sessions</a></li>
+                      <li><a href="sessions.asp">Schedule & Sessions</a></li>
                       <li><a href="awards.asp">Awards</a></li>
                       <li><a href="travel.asp">Travel</a></li>
                     </ul>
@@ -67,16 +67,17 @@
                   <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
                     <dl class="dl-horizontal">
                       <dt>9:30-10:15 AM</dt>
-                      <dd><span class="label label-info">Basic</span> Mobility with Stuart Themudo <i class="icon-caret-down pull-right"></i></dd>
+                      <dd><span class="label label-info">Basic</span> Go Mobile with Stuart Themudo <i class="icon-caret-down pull-right"></i></dd>
                     </dl>
                   </a>
                 </div>
                 <div id="collapseOne" class="accordion-body collapse in">
                   <div class="accordion-inner accordion-green">
-                    <p>This session will explore how to use Revu on a tablet PC and iPad in order to improve mobility on a job site.  Generate field reports and complete punch walks and back checks with ease.  Topics include:</p>
+                    <p>This session will explore how to use Revu on a tablet PC and iPad in order to improve mobility on a job site.  Perform site surveys, generate field reports and complete punch walks and back checks with ease.  Topics include:</p>
                     <ul>
-                      <li>Revu’s optimized features for tablet PCs</li>
-                      <li>Revu and Vu iPad’s markup and collaboration features</li>
+                      <li>Easily accessing all of your drawing sets from your tablet PC and iPad</li>
+                      <li>Creating symbols with preloaded notes and importing site images to identify field items</li>
+                      <li>Collaborating with project partners directly from the field using Bluebeam Studio</li>
                     </ul>
                   </div>
                 </div>
@@ -108,7 +109,7 @@
                   <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
                     <dl class="dl-horizontal">
                       <dt>10:30-11:15 AM</dt>
-                      <dd><span class="label label-info">Basic</span> Takeoffs and Estimation with TBA <i class="icon-caret-down pull-right"></i></dd>
+                      <dd><span class="label label-info">Basic</span> Ready, Set, Takeoff with TBA <i class="icon-caret-down pull-right"></i></dd>
                     </dl>
                   </a>
                 </div>
@@ -158,7 +159,7 @@
                   <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFive">
                     <dl class="dl-horizontal">
                       <dt>1:45-2:30 PM</dt>
-                      <dd><span class="label label-info">Basic</span> PDF Publishing with Derek Gilbert  <i class="icon-caret-down pull-right"></i>
+                      <dd><span class="label label-info">Basic</span> PDFs in any Dimension with Derek Gilbert  <i class="icon-caret-down pull-right"></i>
                       </dd>
                     </dl>
                   </a>
@@ -181,16 +182,16 @@
                   <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix">
                     <dl class="dl-horizontal">
                       <dt>1:45-2:30 PM</dt>
-                      <dd><span class="label label-important">Advanced</span> Design Review and Project Tracking with Kristine Hopkins <i class="icon-caret-down pull-right"></i></dd>
+                      <dd><span class="label label-important">Advanced</span> 4.  Real-time Design Review and Project Tracking with Kristine Hopkins <i class="icon-caret-down pull-right"></i></dd>
                     </dl>
                   </a>
                 </div>
                 <div id="collapseSix" class="accordion-body collapse">
                   <div class="accordion-inner accordion-green">
-                    <p>Use Revu’s cloud-enabled collaboration feature, Bluebeam Studio, to make key decisions and advance projects in real time – for both design review and project tracking in the field.  Collaborate with project teams from anywhere, whether in the office or in the field, to ensure easy communication for everyone with no down time. Features covered include:</p>
+                    <p>Use Revu’s cloud-enabled collaboration feature, Bluebeam Studio, to  make key decisions and advance projects in real time – for both design review and project tracking.  Collaborate with project teams from anywhere, whether in the office or in the field, to ensure easy communication for everyone with no down time. Features covered include:</p>
                     <ul>
                     <li>Bluebeam Studio Sessions for real-time collaboration</li>
-                    <li>Custom Statuses for tracking sign-off from each party </li>
+                    <li>Custom Statuses for tracking sign-off from each party</li>
                     <li>Custom tool sets for standardization and clarity</li>
                   </ul>
                   </div>

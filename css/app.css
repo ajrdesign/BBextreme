@@ -2,7 +2,7 @@
 	background: url(../img/eXtremeCon-hero.jpg) no-repeat top center;
 	background-size: 100% auto;
 	height: 275px;
-	border-bottom: 1px solid #0083db;
+	border-bottom: 2px solid #0083db;
 }
 
 .hero-sessions,
@@ -11,7 +11,7 @@
 .hero-register {
 	background-size: 100% auto;
 	height: 120px;
-	border-bottom: 1px solid #0083db;
+	border-bottom: 2px solid #0083db;
 }
 
 .hero-sessions {
@@ -20,6 +20,10 @@
 
 .hero-awards {
 	background: url(../img/hero-awards.jpg) no-repeat top center;
+}
+
+.hero-travel {
+	background: url(../img/hero-travel.jpg) no-repeat top center;
 }
 
 .hero-unit-text-right {

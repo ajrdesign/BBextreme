@@ -35,10 +35,10 @@
                   <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
                     MENU
                   </a>
-                  <a class="brand" href="index.asp"><img src="img/bbxc-logo-horiz.png"></a>
+                  <a class="brand" href="index.asp"><img src="img/bb-logo.png"></a>
                   <div class="nav-collapse collapse">
                     <ul class="nav">
-                      <li><a href="sessions.asp">Sessions</a></li>
+                      <li><a href="sessions.asp">Schedule & Sessions</a></li>
                       <li><a href="awards.asp">Awards</a></li>
                       <li><a href="travel.asp">Travel</a></li>
                     </ul>
@@ -50,27 +50,29 @@
               </div>
             </div>
             <div class="hero-unit hero-unit-text-right hero-speaker">
+              <img src="img/bbxc-logo-horiz.png">
               <h1>eXtreme learning. eXtreme fun.</h1>
               <p>August 2nd, 2013. Los Angeles, CA.</p>
               <a href="#" class="btn btn-large btn-green">I want to go</a>
             </div>
           </div>
-          <div class="span10 offset1">
+          <div class="span10 offset1 fit-video">
             <h2>About eXtreme Conference</h2>
             <hr class="blue">
             <p class="lead">On August 2nd, the power of Bluebeam Revu and the energy of the X Games collide at the ultimate, adrenaline-charged Bluebeam eXtreme Conference. Located in the heart of downtown Los Angeles, the Bluebeam eXtreme Conference will include a day of in-depth educational sessions designed to take your digital workflow to the next level. </p>
+            <iframe width="700" height="360" src="http://www.youtube.com/embed/Vi9R8dwDRT0?showinfo=0" frameborder="0" allowfullscreen></iframe>
+            <hr class="clean">
           </div>
         </div>
-      </div>
-      <div class="crowd-bg">
       </div>
 
       <div class="container">
         <div class="row">
-          <div class="span10 offset1 fit-video">
-            <hr class="blue">
+          <div class="span10 offset1">
             <p class="lead">Learn best practices from industry experts, connect with fellow Revu enthusiasts, participate in meaningful discussions, attend our insightful keynote presentation, discover how to master new techniques from Bluebeam’s leading engineers and experts, and have a whole lot of fun in the process. </p>
-            <iframe width="700" height="360" src="http://www.youtube.com/embed/Vi9R8dwDRT0?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+            <img src="img/bbxc-community.jpg">
+            
             <h2>Registration Includes:</h2>
             <hr class="blue">
             <ul class="lead spacing">
@@ -82,11 +84,14 @@
           </div>
         </div>
       </div>
-      <div class="fun-bg">
+
+      <div class="hidden-phone fun-bg">
+
       </div>
       <div class="container">
         <div class="row">
           <div class="span12 center">
+            <img class="hidden-desktop hidden-tablet" src="img/fun-bg.jpg">
             <div class="well well-clear">
             <h1>Anything is possible.</h1>
             <a class="btn btn-extreme btn-green" href="register.asp">Register Now</a>
