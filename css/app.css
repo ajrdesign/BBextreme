@@ -26,6 +26,10 @@
 	background: url(../img/hero-travel.jpg) no-repeat top center;
 }
 
+.hero-register {
+	background: url(../img/hero-register.jpg) no-repeat top center;
+}
+
 .hero-unit-text-right {
 	padding: 5% 5% 5% 60%;
 }
@@ -57,6 +61,19 @@
 	height: 95%;
 	position: absolute;
 	z-index: 2000;
+}
+
+.reg-box {
+	background: rgb(0,102,170); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(0,102,170,1) 0%, rgba(0,79,145,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,102,170,1)), color-stop(100%,rgba(0,79,145,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(0,102,170,1) 0%,rgba(0,79,145,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(0,102,170,1) 0%,rgba(0,79,145,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(0,102,170,1) 0%,rgba(0,79,145,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(0,102,170,1) 0%,rgba(0,79,145,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0066aa', endColorstr='#004f91',GradientType=0 ); /* IE6-9 */
+	height: 160px;
+	border: 1px solid #0178c6;
 }
 
 /* Background Styles */

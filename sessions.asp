@@ -37,7 +37,7 @@
                   <a class="brand" href="index.asp"><img src="img/bb-logo.png"></a>
                   <div class="nav-collapse collapse">
                     <ul class="nav">
-                      <li><a href="sessions.asp">Schedule & Sessions</a></li>
+                      <li class="active"><a href="sessions.asp">Schedule & Sessions</a></li>
                       <li><a href="awards.asp">Awards</a></li>
                       <li><a href="travel.asp">Travel</a></li>
                     </ul>

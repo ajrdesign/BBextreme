@@ -38,7 +38,7 @@
                   <div class="nav-collapse collapse">
                     <ul class="nav">
                       <li><a href="sessions.asp">Schedule & Sessions</a></li>
-                      <li><a href="awards.asp">Awards</a></li>
+                      <li class="active"><a href="awards.asp">Awards</a></li>
                       <li><a href="travel.asp">Travel</a></li>
                     </ul>
                     <ul class="nav pull-right">
@@ -116,8 +116,8 @@
                 <label class="checkbox">
                 <input type="checkbox"> 
                 <p>By checking this box, I agree that I am authorized to submit the information included in this submission, and that Bluebeam Software has permission to use this information in the promotion of the Bluebeam eXtreme Project Awards and Bluebeam eXtreme Conference.</p>
-                <button class="btn btn-green">Submit</button>
               </label>
+              <button class="btn btn-green">Submit</button>
             </form>
           </div>
         </div>

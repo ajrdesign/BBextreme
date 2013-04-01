@@ -39,7 +39,7 @@
                     <ul class="nav">
                       <li><a href="sessions.asp">Schedule & Sessions</a></li>
                       <li><a href="awards.asp">Awards</a></li>
-                      <li><a href="travel.asp">Travel</a></li>
+                      <li class="active"><a href="travel.asp">Travel</a></li>
                     </ul>
                     <ul class="nav pull-right">
                       <li><a href="register.asp">Register</a></li>
