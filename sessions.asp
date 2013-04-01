@@ -53,7 +53,7 @@
             </div>
           </div>
           <div class="span10 offset1">
-            <p class="lead">Whether you're a novice Revu user, or an old pro who has been a fan since PushButton PDF, the Bluebeam eXtreme Conference has educational sessions designed to unleash your digital workflow. This year, we’re offering two different tracks: Basic and Advanced. Feel free to pick the sessions the best fit your needs. All sessions will take place at the LA Live Regal Theatres. With massive screens and a monster sound system, it’s sure to be a cinematic experience. </p>
+            <p class="lead">Whether you're a novice Revu user, or an old pro who has been a fan since PushButton PDF, the Bluebeam eXtreme Conference has educational sessions designed to unleash your digital workflow. This year, we’re offering two different tracks: Standard and Advanced. Feel free to pick the sessions that best fit your needs. All sessions will take place at the LA Live Regal Theatres. With massive screens and a monster sound system, it’s sure to be a cinematic experience. </p>
             <h2>Schedule</h2>
             <div class="accordion" id="accordion2">
               <dl class="dl-horizontal">
@@ -67,7 +67,7 @@
                   <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
                     <dl class="dl-horizontal">
                       <dt>9:30-10:15 AM</dt>
-                      <dd><span class="label label-info">Basic</span> Go Mobile with Stuart Themudo <i class="icon-caret-down pull-right"></i></dd>
+                      <dd><span class="label label-info">Standard</span> Go Mobile with Stuart Themudo <i class="icon-caret-down pull-right"></i></dd>
                     </dl>
                   </a>
                 </div>
@@ -109,7 +109,7 @@
                   <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
                     <dl class="dl-horizontal">
                       <dt>10:30-11:15 AM</dt>
-                      <dd><span class="label label-info">Basic</span> Ready, Set, Takeoff with TBA <i class="icon-caret-down pull-right"></i></dd>
+                      <dd><span class="label label-info">Standard</span> Ready, Set, Takeoff with TBA <i class="icon-caret-down pull-right"></i></dd>
                     </dl>
                   </a>
                 </div>
@@ -159,7 +159,7 @@
                   <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFive">
                     <dl class="dl-horizontal">
                       <dt>1:45-2:30 PM</dt>
-                      <dd><span class="label label-info">Basic</span> PDFs in any Dimension with Derek Gilbert  <i class="icon-caret-down pull-right"></i>
+                      <dd><span class="label label-info">Standard</span> PDFs in any Dimension with Derek Gilbert  <i class="icon-caret-down pull-right"></i>
                       </dd>
                     </dl>
                   </a>
@@ -182,7 +182,7 @@
                   <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix">
                     <dl class="dl-horizontal">
                       <dt>1:45-2:30 PM</dt>
-                      <dd><span class="label label-important">Advanced</span> 4.  Real-time Design Review and Project Tracking with Kristine Hopkins <i class="icon-caret-down pull-right"></i></dd>
+                      <dd><span class="label label-important">Advanced</span> Real-time Design Review and Project Tracking with Kristine Hopkins <i class="icon-caret-down pull-right"></i></dd>
                     </dl>
                   </a>
                 </div>
@@ -207,7 +207,7 @@
               </dl>
             </div>
             <hr class="blue">
-            <p>* Attendees can  select the sessions they want to attend during designated session times. Please refer to the Educational Sessions page for more detailed information and times.</p>
+            <p>* Attendees can  select the sessions they want to attend during designated session times.</p>
             <p>** Agenda is subject to change.</p>
           </div>
         </div>

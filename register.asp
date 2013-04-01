@@ -55,7 +55,7 @@
           <div class="span10 offset1">
             <h2>Registration Includes:</h2>
             <hr class="blue">
-            <ul class="lead spacing">
+            <ul class="lead">
               <li>Access to Bluebeam eXtreme Conference sessions and industry presentations</li>
               <li>Keynote address, presented by Bluebeam Software’s President & CEO, Richard Lee</li>
               <li>Breakfast, awards luncheon, and evening cocktail reception catered by Wolfgang Puck</li>
@@ -97,9 +97,7 @@
                   <h4>Name for Badge</h4>
                   <input class="input-large" type="text" placeholder="Joe">
                 </div> 
-                <div class="span3">
-                  
-                </div> 
+
                 <div class="span3">
                   <h4>Company</h4>
                   <input class="input-large" type="text" placeholder="Your company's name">
@@ -109,14 +107,15 @@
                 <input class="input-xlarge" type="text" placeholder="Address">
                 <br>
                 <input class="input-xlarge" type="text">
-                <h4>City</h4>
-                <input class="input-mini" type="text" placeholder="CA">
-                <h4>Zip Code</h4>
-                <input class="input-medium" type="text" placeholder="11111">
-                <h4>Work Phone</h4>
-                <input class="input-medium" type="text" placeholder="000-000-0000">
-                <h4>Mobile Phone</h4>
-                <input class="input-medium" type="text" placeholder="000-000-0000">
+                <div class="form-inline">
+                  <input class="input-medium" type="text" placeholder="City">
+                  <input class="input-medium" type="text" placeholder="Zip code">
+                </div>
+                <h4>Phone</h4>
+                <div class="form-inline">
+                  <input class="input-medium" type="text" placeholder="Work Phone">
+                  <input class="input-medium" type="text" placeholder="Mobile Phone">
+                </div>
                 <h4>Unisex shirt Size</h4>
                 <label class="radio inline">
                   <input type="radio" name="shirtSize" id="optionsRadios1" value="Small">
@@ -132,11 +131,11 @@
                 </label>
                 <label class="radio inline">
                   <input type="radio" name="shirtSize" id="optionsRadios3" value="XLarge">
-                  X-Large
+                  X Large
                 </label>
                 <label class="radio inline">
                   <input type="radio" name="shirtSize" id="optionsRadios3" value="XXLarge">
-                  XX-Large
+                  XX Large
                 </label>
                 <h4>I plan to attend (Check all that apply)</h4>
                 <label class="checkbox">
@@ -150,7 +149,7 @@
                 <hr class="clean">
               <button class="btn btn-green">Register Me!</button>
               <hr class="clean">
-              <p><span class="label label-important">IMPORTANT</span> After you click “Register Me” you will redirected to the payment page. Your registration will not be confirmed until your payment is received.</p>
+              <p><span class="label label-important">IMPORTANT</span> After you click “Register Me” you will be redirected to the payment page. Your registration will not be confirmed until your payment is received.</p>
             </form>
           </div>
         </div>
