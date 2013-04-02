@@ -49,17 +49,17 @@
               </div>
             </div>
             <div class="hero-unit hero-awards">
-              <h1>Bluebeam eXtreme Awards</h1>
+              <h1>Awards</h1>
             </div>
           </div>
           <div class="span10 offset1">
-            <h2>Nominate Your Project for a Bluebeam eXtreme Award</h2>
-            <p class="lead">Are you using Revu to achieve eXtreme results? We want to know! This year, Bluebeam is launching the Bluebeam eXtreme Awards(BXA), an opportunity for tech-savvy project teams to showcase how they are leveraging Bluebeam solutions to work without limits and achieve incredible results. The BXA winners will be announced during a luncheon at the 2013 Bluebeam eXtreme Conference in Los Angeles, making it the perfect opportunity to highlight your innovative use of Bluebeam in front of an esteemed audience of the industry’s top professionals and fellow Revu users. </p>
-            <p class="lead">Submitting for the eXtreme Project Awards is easy. Just pick a category (or categories), fill in the form below and <strong class="text-success">submit by Friday, June 7th, 2013</strong>.</p>
+            <h2>Nominate Your Project for a Bluebeam XXXXX Award</h2>
+            <p class="lead">Are you using Revu to achieve eXtreme results? We want to know! This year, Bluebeam is launching the Bluebeam XXXXX Awards, an opportunity for tech-savvy project teams to showcase how they are leveraging Bluebeam solutions to work without limits and achieve incredible results. The XXXXX Award winners will be announced during a luncheon at the 2013 Bluebeam eXtreme Conference in Los Angeles, making it the perfect opportunity to highlight your innovative use of Bluebeam in front of an esteemed audience of the industry’s top professionals and fellow Revu users. </p>
+            <p class="lead">Submitting for the eXtreme Project Awards is easy. Just pick a category (or categories), fill in the form below and <strong class="label label-important">submit by Friday, June 7th, 2013</strong>.</p>
             <hr class="blue">
             <h3>Categories</h3>
             <p>Do you think your project qualifies for more than one award? Go ahead, submit it for all that apply.</p>
-            <strong class="text-success">After filling out the form</strong> please send 1-3 sample PDFs that demonstrate your project’s use of Revu as well as your company logo to <a href="mailto:awards@bluebeam.com">awards@bluebeam.com</a>
+            <strong class="label label-important">After filling out the form</strong> please send 1-3 sample PDFs that demonstrate your project’s use of Revu as well as your company logo to <a href="mailto:awards@bluebeam.com">awards@bluebeam.com</a>
             <form action="">
               <label class="checkbox">
                 <input type="checkbox"> <h4>Going Paperless</h4>
@@ -115,7 +115,7 @@
                 </div>
                 <label class="checkbox">
                 <input type="checkbox"> 
-                <p>By checking this box, I agree that I am authorized to submit the information included in this submission, and that Bluebeam Software has permission to use this information in the promotion of the Bluebeam eXtreme Awards and Bluebeam eXtreme Conference.</p>
+                <p>By checking this box, I agree that I am authorized to submit the information included in this submission, and that Bluebeam Software has permission to use this information in the promotion of the Bluebeam eXtreme Project Awards and Bluebeam eXtreme Conference.</p>
               </label>
               <button class="btn btn-green">Submit</button>
             </form>
