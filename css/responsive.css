@@ -779,7 +779,10 @@ http://niklausgerber.com/blog/responsive-google-or-bing-maps/*/
   .hero-speaker p {
     font-size: 14px;
   }
-  .hero-sessions {
+  .hero-sessions,
+  .hero-awards,
+  .hero-travel,
+  .hero-register {
     height: 60px;
   }
   .fun-bg,

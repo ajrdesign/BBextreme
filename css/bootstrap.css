@@ -489,9 +489,9 @@ p {
 }
 .lead {
   margin-bottom: 1.5em;
-  font-size: 20.8px;
+  font-size: 18.4px;
   font-weight: 200;
-  line-height: 1.6500000000000001em;
+  line-height: 1.5em;
 }
 small {
   font-size: 85%;
@@ -545,18 +545,15 @@ h6 small {
 }
 h1 {
   font-size: 36px;
-  line-height: 40px;
-  padding-top: 16px;
+  line-height: 36px;
 }
 h2 {
   font-size: 30px;
-  line-height: 36px;
-  padding-top: 12px;
+  line-height: 32px;
 }
 h3 {
   font-size: 24px;
   line-height: 34px;
-  padding-top: 4px;
 }
 h4 {
   font-size: 18px;
@@ -853,7 +850,7 @@ input[type="color"],
 .uneditable-input {
   display: inline-block;
   height: 1.5em;
-  padding: 4px 6px;
+  padding: 1px 3px;
   margin-bottom: 9px;
   font-size: 16px;
   line-height: 1.5em;
@@ -5086,7 +5083,7 @@ a.badge:hover {
 }
 .hero-unit {
   padding: 60px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   background-color: #dddddd;
 }
 .hero-unit h1 {

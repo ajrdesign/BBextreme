@@ -109,10 +109,10 @@
                 <input class="input-xlarge" type="text" placeholder="Address">
                 <br>
                 <input class="input-xlarge" type="text">
-                <h4>City</h4>
-                <input class="input-small" type="text" placeholder="CA">
-                <h4>Zip Code</h4>
-                <input class="input-medium" type="text" placeholder="11111">
+                <div class="form-inline">
+                  <input class="input-small" type="text" placeholder="City">
+                  <input class="input-medium" type="text" placeholder="Zip code">
+                </div>
                 <label class="checkbox">
                 <input type="checkbox"> 
                 <p>By checking this box, I agree that I am authorized to submit the information included in this submission, and that Bluebeam Software has permission to use this information in the promotion of the Bluebeam eXtreme Project Awards and Bluebeam eXtreme Conference.</p>
