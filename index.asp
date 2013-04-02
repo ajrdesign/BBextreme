@@ -49,12 +49,35 @@
                 </div>
               </div>
             </div>
-            <div class="hero-unit hero-unit-text-right hero-speaker">
-              <img src="img/bbxc-logo-horiz.png">
-              <h1>eXtreme learning. eXtreme fun.</h1>
-              <p>August 2nd, 2013. Los Angeles, CA.</p>
-              <a href="#" class="btn btn-large btn-green">I want to go</a>
+            <div id="myCarousel" class="carousel slide" data-interval="false">
+              <!-- Carousel items -->
+              <div class="carousel-inner">
+                <div class="active item">
+                  <div class="hero-unit hero-unit-text-right hero-speaker">
+                    <img src="img/bbxc-logo-horiz.png">
+                    <h1>eXtreme learning. eXtreme fun.</h1>
+                    <p>August 2nd, 2013. Los Angeles, CA.</p>
+                    <a href="#" class="btn btn-large btn-green">I want to go</a>
+                  </div>
+                </div>
+                <div class="item">
+                  <img src="img/slide-sasha.jpg" alt="extreme conference awards">
+                </div>
+                <div class="item">
+                  <img src="img/slide-terrace.jpg" alt="the venues">
+                </div>
+                <div class="item">
+                  <img src="img/slide-don.jpg" alt="bluebeam presentations">
+                </div>
+                <div class="item">
+                  <img src="img/slide-crowd.jpg" alt="bluebeam presentations">
+                </div>
+              </div>
+              <!-- Carousel nav -->
+              <a class="carousel-control left" href="#myCarousel" data-slide="prev"><span>‹</span></a>
+              <a class="carousel-control right" href="#myCarousel" data-slide="next"><span>›</span></a>
             </div>
+            
           </div>
           <div class="span10 offset1 fit-video">
             <h2>About eXtreme Conference</h2>
