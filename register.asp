@@ -149,7 +149,7 @@
                 <hr class="clean">
               <button class="btn btn-green">Register Me!</button>
               <hr class="clean">
-              <p><span class="label label-important">IMPORTANT</span> After you click “Register Me” you will be redirected to the payment page. Your registration will not be confirmed until your payment is received.</p>
+              <p><strong class="text-success">IMPORTANT:</strong> After you click “Register Me” you will be redirected to the payment page. Your registration will not be confirmed until your payment is received.</p>
             </form>
           </div>
         </div>
