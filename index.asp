@@ -59,9 +59,13 @@
           <div class="span10 offset1 fit-video">
             <h2>About eXtreme Conference</h2>
             <hr class="blue">
+          </div>
+          <div class="span5 offset1">
             <p class="lead">On August 2nd, the power of Bluebeam Revu and the energy of the X Games collide at the ultimate, adrenaline-charged Bluebeam eXtreme Conference. Located in the heart of downtown Los Angeles, the Bluebeam eXtreme Conference will include a day of in-depth educational sessions designed to take your digital workflow to the next level. </p>
-            <iframe width="700" height="360" src="http://www.youtube.com/embed/Vi9R8dwDRT0?showinfo=0" frameborder="0" allowfullscreen></iframe>
             <hr class="clean">
+          </div>
+          <div class="span5 fit-video">
+            <iframe width="700" height="360" src="http://www.youtube.com/embed/Vi9R8dwDRT0?showinfo=0" frameborder="0" allowfullscreen></iframe>
           </div>
         </div>
       </div>
@@ -72,7 +76,7 @@
             <p class="lead">Learn best practices from industry experts, connect with fellow Revu enthusiasts, participate in meaningful discussions, attend our insightful keynote presentation, discover how to master new techniques from Bluebeam’s leading engineers and experts, and have a whole lot of fun in the process. </p>
 
             <img src="img/bbxc-community.jpg">
-            
+            <hr class="clean">
             <h2>Registration Includes:</h2>
             <hr class="blue">
             <ul class="lead">

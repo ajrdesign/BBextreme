@@ -77,6 +77,10 @@
 	border: 1px solid #0178c6;
 }
 
+td.time {
+	min-width: 110px;
+}
+
 /* Background Styles */
 
 .crowd-bg {
