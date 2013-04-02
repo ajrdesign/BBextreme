@@ -94,13 +94,14 @@
                     <div class="accordion-group">
                       <div class="accordion-heading accordion-green">
                         <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
-                          <span class="label label-important">Advanced</span> Creating a Dynamic Document Set (Part One)<i class="icon-caret-down pull-right"></i>
+                          <span class="label label-important">Advanced</span> Setting Up a Project (Part One)<i class="icon-caret-down pull-right"></i>
                         </a>
                       </div>
                       <div id="collapseThree" class="accordion-body collapse">
                         <div class="accordion-inner accordion-green">
                           Speaker - <strong>Patrick Keller</strong>
-                          <p>The first session in this two part series will cover the steps you can take to create smart documents. Before a project starts, connect project files and make them easily and quickly accessible. You’ll learn how to:</p>
+                          <p>These complementary sessions will walk you through the process of creating dynamic project documentation and managing that documentation throughout the lifecycle of a project. </p>
+                          <p>The first session will cover the steps you can take to create smart documents. Before a project starts, connect project files and make them easily and quickly accessible. You’ll learn how to:</p>
                           <ul>
                             <li>Use Links to manage hyperlinks that open files and jump to drawing details</li>
                             <li>Create and post RFIs</li>
@@ -149,13 +150,14 @@
               <div class="accordion-group">
                 <div class="accordion-heading accordion-green">
                   <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseFour">
-                    <span class="label label-important">Advanced</span> Managing One Set of True Documents (Part Two) <i class="icon-caret-down pull-right"></i>
+                    <span class="label label-important">Advanced</span> Maintaining One Document Set (Part Two) <i class="icon-caret-down pull-right"></i>
                   </a>
                 </div>
                 <div id="collapseFour" class="accordion-body collapse">
                   <div class="accordion-inner accordion-green">
                     Speaker - <strong>Chris Jervey </strong>
-                    <p>The second session in this two part series covers the tools you can employ to manage smart project documents during the course of construction through project close-out. Topics include:</p>
+                    <p>These complementary sessions will walk you through the process of creating dynamic project documentation and managing that documentation throughout the lifecycle of a project. </p>
+                    <p>The second session covers the tools you can employ to manage smart project documents during the course of construction through project close-out. Topics include:</p>
                     <ul>
                       <li>Managing and comparing revisions</li>
                       <li>Creating and referencing archived information</li>
