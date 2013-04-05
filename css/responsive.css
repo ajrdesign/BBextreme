@@ -779,8 +779,17 @@ http://niklausgerber.com/blog/responsive-google-or-bing-maps/*/
   .hero-speaker p {
     font-size: 14px;
   }
-  .hero-sessions {
-    height: 60px;
+  .hero-sessions,
+  .hero-awards,
+  .hero-travel,
+  .hero-register {
+    height: 30px;
+  }
+  .hero-sessions h1,
+  .hero-awards h1,
+  .hero-travel h1,
+  .hero-register h1 {
+    font-size: 26px;
   }
   .fun-bg,
   .crowd-bg {
@@ -912,6 +921,20 @@ http://niklausgerber.com/blog/responsive-google-or-bing-maps/*/
   }
   .hero-speaker p {
     font-size: 14px;
+  }
+  .hero-sessions,
+  .hero-awards,
+  .hero-travel,
+  .hero-register {
+    background: none;
+    height: auto;
+    padding: 2%;
+  }
+  .hero-sessions h1,
+  .hero-awards h1,
+  .hero-travel h1,
+  .hero-register h1 {
+    font-size: 26px;
   }
 }
 @media (max-width: 480px) {

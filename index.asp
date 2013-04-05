@@ -52,16 +52,20 @@
             <div class="hero-unit hero-unit-text-right hero-speaker">
               <img src="img/bbxc-logo-horiz.png">
               <h1>eXtreme learning. eXtreme fun.</h1>
-              <p>August 2nd, 2013. Los Angeles, CA.</p>
-              <a href="#" class="btn btn-large btn-green">I want to go</a>
+              <p>August 2nd, 2013 | Los Angeles, CA.</p>
+              <a href="register.asp" class="btn btn-large btn-green">Register</a>
             </div>
           </div>
           <div class="span10 offset1 fit-video">
             <h2>About eXtreme Conference</h2>
             <hr class="blue">
+          </div>
+          <div class="span5 offset1">
             <p class="lead">On August 2nd, the power of Bluebeam Revu and the energy of the X Games collide at the ultimate, adrenaline-charged Bluebeam eXtreme Conference. Located in the heart of downtown Los Angeles, the Bluebeam eXtreme Conference will include a day of in-depth educational sessions designed to take your digital workflow to the next level. </p>
-            <iframe width="700" height="360" src="http://www.youtube.com/embed/Vi9R8dwDRT0?showinfo=0" frameborder="0" allowfullscreen></iframe>
             <hr class="clean">
+          </div>
+          <div class="span5 fit-video">
+            <iframe width="700" height="360" src="http://www.youtube.com/embed/Vi9R8dwDRT0?showinfo=0" frameborder="0" allowfullscreen></iframe>
           </div>
         </div>
       </div>
@@ -72,15 +76,21 @@
             <p class="lead">Learn best practices from industry experts, connect with fellow Revu enthusiasts, participate in meaningful discussions, attend our insightful keynote presentation, discover how to master new techniques from Bluebeam’s leading engineers and experts, and have a whole lot of fun in the process. </p>
 
             <img src="img/bbxc-community.jpg">
-            
+            <hr class="clean">
             <h2>Registration Includes:</h2>
             <hr class="blue">
-            <ul class="lead spacing">
+            <ul class="lead">
               <li>Access to Bluebeam eXtreme Conference sessions and industry presentations</li>
               <li>Keynote address, presented by Bluebeam Software’s President & CEO, Richard Lee</li>
               <li>Breakfast, awards luncheon, and evening cocktail reception catered by Wolfgang Puck</li>
               <li>Conference welcome bag </li>
             </ul>
+            <div class="center">
+              <h1>Anything is possible.</h1>
+              <a class="btn btn-extreme btn-green" href="register.asp">Register Now</a>
+            </div>
+            <hr class="clean">
+            
           </div>
         </div>
       </div>
@@ -91,16 +101,11 @@
       <div class="container">
         <div class="row">
           <div class="span12 center">
-            <img class="hidden-desktop hidden-tablet" src="img/fun-bg.jpg">
-            <div class="well well-clear">
-            <h1>Anything is possible.</h1>
-            <a class="btn btn-extreme btn-green" href="register.asp">Register Now</a>
-
-            </div>
-            <!-- <footer>
-              <hr class="blue">
+            <footer>
+              <hr class="clean">
               <small>Copyright © 2002 - 2013 Bluebeam Software, Inc. All rights reserved.</small>
-            </footer> -->
+              <hr class="clean">
+            </footer>
           </div>
         </div>
       </div>

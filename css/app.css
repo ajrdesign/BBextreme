@@ -1,3 +1,7 @@
+body {
+	background: #000 url(../img/background.jpg) no-repeat top center fixed;
+}
+
 .hero-speaker {
 	background: url(../img/eXtremeCon-hero.jpg) no-repeat top center;
 	background-size: 100% auto;
@@ -9,8 +13,9 @@
 .hero-awards,
 .hero-travel,
 .hero-register {
+	padding: 50px;
 	background-size: 100% auto;
-	height: 120px;
+	height: 50px;
 	border-bottom: 2px solid #0083db;
 }
 
@@ -72,8 +77,12 @@
 	background: -ms-linear-gradient(top,  rgba(0,102,170,1) 0%,rgba(0,79,145,1) 100%); /* IE10+ */
 	background: linear-gradient(to bottom,  rgba(0,102,170,1) 0%,rgba(0,79,145,1) 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0066aa', endColorstr='#004f91',GradientType=0 ); /* IE6-9 */
-	height: 160px;
+	height: 140px;
 	border: 1px solid #0178c6;
+}
+
+td.time {
+	min-width: 110px;
 }
 
 /* Background Styles */
